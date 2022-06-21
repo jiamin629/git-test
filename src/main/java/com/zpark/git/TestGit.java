@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("IDEA test Git! --master");
         System.out.println("IDEA test Git! --master1");
         System.out.println("IDEA test Git! --hot-fix");
+        System.out.println("IDEA test Git! --hot-fix1");
     }
 }
